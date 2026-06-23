@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>E:\VoiceBattle\VoiceBattle\VoiceBattle\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\BattleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DoubleBufferedPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\LobbyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
