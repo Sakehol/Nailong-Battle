@@ -9,6 +9,8 @@
 
 ---
 
+[▶️ 观看演示视频（B站）](https://www.bilibili.com/video/BVxxxxxx)
+
 ## 📖 目录
 
 - [游戏特色](#-游戏特色)
